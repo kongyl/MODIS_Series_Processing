@@ -1,0 +1,7 @@
+# Some subdataset layer No.
+MCD45A1: 0-burned data
+MOD13Q1: 0-NDVI 2-EVI 4-VI Quality 6-Red 8-NIR 10-blue 12-MIR 20-day of the year 22-pixel reliability
+MCD12Q1: 0-IGBP 2-UMD 4-LAI/fPAR 6-NPP/BGC 8-PFT
+MOD09GA: 2-QA1km 4-SensorZenith 6-SensorAzimuth 10-SolarZenith 12-SolarAzimuth 20-Red 22-NIR 24-Blue 26-Green 28-b5 30-MIR/TM5 32-MIR/TM7 34-QC500m
+MOD11A1: 0-LST day 2-QC Day 4-view time 6-view angle 8-LST night 10-QC night
+MOD11A2: 0-LST day
